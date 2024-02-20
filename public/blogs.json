@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "cover_photo": "https://img.freepik.com/free-vector/gradient-texture-technology-facebook-cover_23-2149076442.jpg?w=1380&t=st=1708453090~exp=1708453690~hmac=d2e82b36167ebbfee623ef9bf12ba081679b922ba2335076c866f1fdf49f14c0",
+    "title": "The Mystery of the Hidden Gem",
+    "author_img": "https://pics.craiyon.com/2023-08-03/5ddcf110e5d443259b8787fbb5e314f6.webp",
+    "author": "Emily Johnson",
+    "posted_date": "2024-02-21",
+    "reading_time": 10,
+    "hashtags": ["mystery", "adventure", "fiction"]
+  },
+  {
+    "id": "002",
+    "cover_photo": "https://img.freepik.com/free-vector/gradient-texture-technology-facebook-cover_23-2149076442.jpg?w=1380&t=st=1708453090~exp=1708453690~hmac=d2e82b36167ebbfee623ef9bf12ba081679b922ba2335076c866f1fdf49f14c0",
+    "title": "Exploring the Universe",
+    "author_img": "https://pics.craiyon.com/2023-08-03/5ddcf110e5d443259b8787fbb5e314f6.webp",
+    "author": "David Smith",
+    "posted_date": "2024-02-20",
+    "reading_time": 15,
+    "hashtags": ["space", "science", "exploration"]
+  },
+  {
+    "id": "003",
+    "cover_photo": "https://img.freepik.com/free-vector/gradient-texture-technology-facebook-cover_23-2149076442.jpg?w=1380&t=st=1708453090~exp=1708453690~hmac=d2e82b36167ebbfee623ef9bf12ba081679b922ba2335076c866f1fdf49f14c0",
+    "title": "Cooking Adventures",
+    "author_img": "https://pics.craiyon.com/2023-08-03/5ddcf110e5d443259b8787fbb5e314f6.webp",
+    "author": "Sarah Lee",
+    "posted_date": "2024-02-19",
+    "reading_time": 8,
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": "004",
+    "cover_photo": "https://img.freepik.com/free-vector/gradient-texture-technology-facebook-cover_23-2149076442.jpg?w=1380&t=st=1708453090~exp=1708453690~hmac=d2e82b36167ebbfee623ef9bf12ba081679b922ba2335076c866f1fdf49f14c0",
+    "title": "The Art of Photography",
+    "author_img": "https://pics.craiyon.com/2023-08-03/5ddcf110e5d443259b8787fbb5e314f6.webp",
+    "author": "Michael Brown",
+    "posted_date": "2024-02-18",
+    "reading_time": 12,
+    "hashtags": ["photography", "art", "creativity"]
+  },
+  {
+    "id": "005",
+    "cover_photo": "https://img.freepik.com/free-vector/gradient-texture-technology-facebook-cover_23-2149076442.jpg?w=1380&t=st=1708453090~exp=1708453690~hmac=d2e82b36167ebbfee623ef9bf12ba081679b922ba2335076c866f1fdf49f14c0",
+    "title": "Fitness Journey",
+    "author_img": "https://pics.craiyon.com/2023-08-03/5ddcf110e5d443259b8787fbb5e314f6.webp",
+    "author": "Alexandra Green",
+    "posted_date": "2024-02-17",
+    "reading_time": 20,
+    "hashtags": ["fitness", "health", "exercise"]
+  }
+]
